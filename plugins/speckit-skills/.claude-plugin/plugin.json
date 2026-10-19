@@ -1,0 +1,10 @@
+{
+  "name": "speckit-skills",
+  "version": "0.1.0",
+  "description": "Binds GitHub Spec Kit tasks to your agent skills and runs /speckit-implement in waves grouped by skill, one sub-agent per skill group.",
+  "author": { "name": "Horelvis Castillo", "url": "https://github.com/horelvis" },
+  "homepage": "https://github.com/horelvis/speckit-skills",
+  "repository": "https://github.com/horelvis/speckit-skills",
+  "license": "MIT",
+  "keywords": ["spec-kit", "sdd", "skills", "subagents", "tasks"]
+}

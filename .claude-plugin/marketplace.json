@@ -1,0 +1,12 @@
+{
+  "name": "horelvis-speckit",
+  "owner": { "name": "Horelvis Castillo", "url": "https://github.com/horelvis" },
+  "metadata": { "description": "Spec Kit add-ons for Claude Code" },
+  "plugins": [
+    {
+      "name": "speckit-skills",
+      "source": "./plugins/speckit-skills",
+      "description": "Binds Spec Kit tasks to agent skills and runs them in waves grouped by skill."
+    }
+  ]
+}
